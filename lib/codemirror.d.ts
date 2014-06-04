@@ -1,0 +1,1 @@
+/home/ken/WTS/wtswiki/d.ts/codemirror.d.ts
