@@ -1,1 +1,1 @@
-/home/ken/WTS/wtswiki/d.ts/codemirror.d.ts
+../../../d.ts/codemirror.d.ts
